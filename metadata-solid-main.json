@@ -1,0 +1,25 @@
+{
+  "name": "SOLID Staked SOL",
+  "symbol": "SOLID",
+  "description": "🔗 One SOLID represents 10 SOL—the wrapped and liquid staked Solana native token. ⚡ SOLID links all Solana tokens that are the wrapped and liquid staked versions, creating one unified bridge of stake and liquidity. 🛤️🌟 A hefty portion of fees pour into backing that's everlasting in locked pools. 🔒💰 These pools are the mercantile markets for SOLID's favorite tokens on Solana. 🏛️💎 100% of SOLID is liquid-minted, staying liquid-backed by wrapped and liquid staked SOL. ⚡ SOLID is liquid-minted when the equivalent amount of wrapped or liquid staked SOL is used to buy SOLID direct from the pools that were blessed with 100% of Max supply. 🏰 Welcome citizen, you are now helping the roads of stake and cryptos to be linked, creating bridges of liquidity between validators and DeFi by holding SOLID. 🔗 This token and its sisters SOLOMON and QUICK are for entertainment purposes only, and are not a vehicle for investment, nor do they promise returns or redeemability. Project subject to change without notice. We operate on our interpretation of the highest will, but make no promises. 🙏",
+  "image": "https://raw.githubusercontent.com/dougbutner/Bridged-EASY-Contracts/refs/heads/main/SOLID-logo-1080.png",
+  "website": "https://t.me/flextokens",
+  "twitter": "https://twitter.com/flextokens",
+  "telegram": "https://t.me/flextokens",
+  "decimals": 6,
+  "supply": "1998000",
+  "attributes": [
+    {
+      "trait_type": "Transfer Fee",
+      "value": "2%"
+    },
+    {
+      "trait_type": "Program",
+      "value": "Token-2022"
+    },
+    {
+      "trait_type": "Backing",
+      "value": "10 SOL"
+    }
+  ]
+}
