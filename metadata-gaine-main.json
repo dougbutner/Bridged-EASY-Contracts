@@ -1,0 +1,15 @@
+{
+  "name": "GAINE",
+  "symbol": "GAINE",
+  "description": "GAINE token weaves the spirit of Iboga (Tabernanthe) into the digital realm to break the addiction of mankind to repeat history's unneeded suffering through healing the neurons (trade routes) that connect the planet's wealth. In the etheral, GAINE is a bridge between RWA commoditized tokens and USD, locking all supply in pools with USD pairs day 0. IRL, GAINE can be used to exchange for raw unprocessed iboga tabernanthe root bark in Gabon through Ibogabon and a growing network of iboga farmers and healing centers. When legal shifts happen, we may expand redemption into more jurisdictions. 2% transfer fee goes to expand Ibogabon's farms and operations, dev pay, subsidise healing for those who need it most, and to repool, with some repooled fees used to buy back GAINE.",
+  "image": "https://raw.githubusercontent.com/dougbutner/Bridged-EASY-Contracts/refs/heads/main/GAINE-token.png",
+  "website": "https://en.wikipedia.org/wiki/Ibogaine",
+  "twitter": "https://twitter.com/search?q=%24GAINE",
+  "telegram": "https://x.com/search?q=%24GAINE",
+  "decimals": 6,
+  "supply": "144000",
+  "attributes": [
+    { "trait_type": "Transfer Fee", "value": "2%" },
+    { "trait_type": "Program", "value": "Token-2022" }
+  ]
+}
