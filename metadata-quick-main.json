@@ -7,7 +7,7 @@
   "twitter": "https://twitter.com/flextokens",
   "telegram": "https://t.me/flextokens",
   "decimals": 6,
-  "supply": "1998000",
+  "supply": "21000000",
   "attributes": [
     {
       "trait_type": "Transfer Fee",
