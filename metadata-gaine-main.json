@@ -7,7 +7,7 @@
   "twitter": "https://twitter.com/search?q=%24GAINE",
   "telegram": "https://x.com/search?q=%24GAINE",
   "decimals": 6,
-  "supply": "144000",
+  "supply": "999369",
   "attributes": [
     { "trait_type": "Transfer Fee", "value": "2%" },
     { "trait_type": "Program", "value": "Token-2022" }
