@@ -1,10 +1,10 @@
 {
-  "name": "QUICK Silver 🜛",
+  "name": "Quick Silver 🜛",
   "symbol": "QUICK",
-  "description": "🪙 One QUICK (aka 🜛) represents one gram of pure digital silver. ✨ QUICK lay the most conductive routes connecting crypto kingdoms. 🛤️🌟 A hefty portion of fees pour into backing that's everlasting in locked pools. 🔒💰 These pools are the mercantile markets for QUICK's favorite tokens on Solana. 🏛️💎 100% of QUICK is liquid-minted, staying liquid-backed by trusted silver-backed tokens. ⚡🪙 QUICK is liquid-minted when the equivalent amount of silver-backed tokens is used to buy QUICK direct from the pools that were blessed with 100% of Max supply. 🏰 Welcome citizen, you are now helping the roads of metals and cryptos to be linked, creating bridges of liquidity between ancient and future worlds by holding QUICK. 🔗 This token and its sisters SOLOMON and SOLID are for entertainment purposes only, and are not a vehicle for investment, nor do they promise returns or redeemability for gold, silver or metal-backed tokens. Project subject to change without notice. We operate on our interpretation of the highest will, but make no promises. 🙏 This token was named after my cat, who sadly ran away three weeks ago.",
+  "description": "Named after my cat Mercury, who sadly ran away, causing me to shelve the project. QUICK was launched the day after the cat came back. The cat came back! 🐈‍⬛ 2% fee with 200 QUICK max fee per TX (~2 USD at launch)🜛 QUICK is a diversified basket my cat Mercury crafted while he was away. He's quick & silver, and he wanted it to be silver-backed like him. I told him best we could do was 11.9% Silver. To lower MC and allow more liquid-leaping* a new 0.01 USD starting price was enforced, keeping with 21M max supply. So we sat down, and I helped Mercury set up the pools on Orca, approximately: EASY 14.29%; XAUT0, PAXG, GLDX, SOL, JLP, CBBtC, whETH, BNB, XRP, USDC, REMXon, PALLon 4.76% each; VNXAU, GLDr, GLDon, IAUon, SLVr, CPERr, PPLTr, SPYx 2.38% each; SLVon 9.52%. Percentages and backing tokens may change over time to protect liquidity. 🜛 QUICK connects these listed metals, commodities, stablecoins, stocks, and crypto markets across Solana. We charge a premium, and use it to boost QUICK. Humble Mercury chose the silver symbol instead of his furrey face. Almost all fees go to buybacks, LPing, and ecosystem expansion, some fees go to dev, amount formalized before eoy 2028. FOR ENTERTAINMENT PURPOSES ONLY. NOT AN INVESTMENT PRODUCT, SECURITY, OR PROMISE OF RETURNS. NO REDEMPTION RIGHTS. SUBJECT TO CHANGE WITHOUT NOTICE. 🙏 *- We created Orca pools and put all 99.9%+ supply in it at launch. CA: QuicEPtN6QtDoMvmsWe5Xqb5da3FqBQWff7jh2cBXn7",
   "image": "https://raw.githubusercontent.com/dougbutner/Bridged-EASY-Contracts/main/QUICK-logo-1080.png",
-  "website": "https://t.me/flextokens",
-  "twitter": "https://twitter.com/flextokens",
+  "website": "https://www.orca.so/pools?tokens=QuicEPtN6QtDoMvmsWe5Xqb5da3FqBQWff7jh2cBXn7",
+  "twitter": "https://orbmarkets.io/token/QuicEPtN6QtDoMvmsWe5Xqb5da3FqBQWff7jh2cBXn7",
   "telegram": "https://t.me/flextokens",
   "decimals": 6,
   "supply": "21000000",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Backing",
-      "value": "1 gram pure silver"
+      "value": "Basket"
     }
   ]
 }
